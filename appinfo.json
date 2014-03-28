@@ -1,0 +1,35 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "6554138e-8194-4cad-9a50-a9c76be0063b",
+    "appKeys": {
+        "slideCount": 4,
+        "slideId": 0,
+        "notes": 5,
+        "slideStart": 7,
+        "prevSlide": 2,
+        "isConfigured": 8,
+        "presentationStart": 6,
+        "presentation": 3,
+        "nextSlide": 1
+    },
+    "longName": "SlideConductr",
+    "versionCode": 1,
+    "capabilities": [
+        "configurable"
+    ],
+    "shortName": "SlideConductr",
+    "companyName": "Conductr",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "MENU_ICON",
+                "file": "images/squarelogo.png"
+            }
+        ]
+    }
+}
